@@ -27,8 +27,8 @@ class Baased < Formula
 
   desc "App-author CLI for the baased platform"
   homepage "https://github.com/teicorian/baased"
-  url "https://github.com/teicorian/baased/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_WITH_SHA256_OF_THE_TAGGED_TARBALL"
+  url "https://files.pythonhosted.org/packages/source/b/baased-cli/baased_cli-0.1.1.tar.gz"
+  sha256 "dfa34b926e2485cbddd5c8257bb4412396e3cae7d0fbda55a82f127563c4be62"
   license "Apache-2.0"
   head "https://github.com/teicorian/baased.git", branch: "main"
 
