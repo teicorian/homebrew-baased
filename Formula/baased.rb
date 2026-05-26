@@ -15,8 +15,8 @@ class Baased < Formula
 
   desc "App-author CLI for the baased platform"
   homepage "https://github.com/teicorian/baased"
-  url "https://files.pythonhosted.org/packages/source/b/baased-cli/baased_cli-0.3.0.tar.gz"
-  sha256 "e5b8c440fc6cb3754c5e137a80ce7016ae8d710dc21dacbd60d0857a26c76ab7"
+  url "https://files.pythonhosted.org/packages/source/b/baased-cli/baased_cli-0.4.0.tar.gz"
+  sha256 "938b59016fa94d68925bfd0bd10ff098aeaf8b2421d967f0fb0a5fa70ab349c4"
   license "Apache-2.0"
 
   depends_on "python@3.13"
